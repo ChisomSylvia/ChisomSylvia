@@ -20,8 +20,6 @@ Here are some ideas to get you started:
   </h1>
 </div>
 
-<hr>
-
 <h2> About Me </h2>
 <ul> 
   <li>🌱 Currently an intern Back-end Developer @ Genesys Tech Hub</li>
