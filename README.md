@@ -20,13 +20,8 @@ Here are some ideas to get you started:
   </h1>
 </div>
 
-/*<h2> About Me </h2>*/
-<ul> 
-  <li>🌱 Software Developer focused on crafting secure and error-resistant Node.js and MongoDB solutions. Skilled in robust server-side logic and data protection, with working knowledge of React and other frontend essentials. Passionate about building solid server-side solutions.</li>
-  <li>😄 My hobbies include: <em>Researching, <em>Exercising and Playing songs</em></li>
-</ul>
-
-<hr>
+  <p>🌱 Software Developer focused on crafting secure and error-resistant Node.js and MongoDB solutions. Skilled in robust server-side logic and data protection, with working knowledge of React and other frontend essentials. Passionate about building solid server-side solutions.</p>
+  <p>😄 I love <em>Researching, <em>Exercising and Playing songs</em></p>
 
 <h2> Contact Me </h2>
 <P><strong>Phone Number:</strong> +234 8145451251 </P>
